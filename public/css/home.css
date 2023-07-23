@@ -13,7 +13,7 @@ body {
   .iframe-container {
     display: inline-block;
     margin: 3vh;
-    height: 35vh;
+    height: 122vh;
     max-width: 520px;
   }
   
@@ -47,7 +47,7 @@ body {
     display: block;
     margin-top: 10px;
     max-width: 520px;
-    height: 500px;
+    height: 150vh;
     width: 100%;
     border-radius: 8px;
     overflow: hidden;
