@@ -1,0 +1,27 @@
+/* Para dispositivos com largura de tela menor que 768px (como celulares) */
+@media (max-width: 767px) {
+    body {
+      overflow: auto; /* Permitir rolagem vertical */
+    }
+  
+    .iframe-container {
+      height: auto; /* Ajustar altura automaticamente */
+      max-width: 100%; /* Ocupar toda a largura disponível */
+      height: 50vh;
+      margin-top: 1vh;
+    }
+  
+    .second-iframe-container {
+      height: 150vh; /* Ajustar altura automaticamente */
+      
+    }
+  
+    .adjust-buttons {
+      display: none; /* Esconder os botões de ajuste */
+    }
+  }
+  @media (min-width: 768px) {
+    .scroll-to-top-button {
+      display: none;
+    }
+  }
