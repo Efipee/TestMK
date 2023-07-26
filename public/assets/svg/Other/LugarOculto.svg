@@ -1,0 +1,15 @@
+<svg id="LugarOculto" xmlns="http://www.w3.org/2000/svg" width="389" height="373" viewBox="0 0 389 373">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #16182f;
+      }
+
+      .cls-2 {
+        fill: #292d53;
+      }
+    </style>
+  </defs>
+  <rect id="Retângulo_Arredondado_2_copiar" data-name="Retângulo Arredondado 2 copiar" class="cls-1" x="3" y="3" width="384" height="369" rx="10" ry="10"/>
+  <rect id="Retângulo_Arredondado_2" data-name="Retângulo Arredondado 2" class="cls-2" x="1" y="1" width="384" height="369" rx="10" ry="10"/>
+</svg>
